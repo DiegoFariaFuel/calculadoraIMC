@@ -1,6 +1,7 @@
-# imc_facil
+# Calculadora IMC em flutter
 
-A new Flutter project.
+Front end Calcularoda de IMC. IMC é a sigla para Índice de Massa Corpórea, parâmetro
+adotado pela Organização Mundial de Saúde para calcular o peso ideal de cada pessoa.
 
 ## Getting Started
 
